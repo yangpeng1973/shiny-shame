@@ -1,0 +1,22 @@
+{
+    "properties": {
+        "name": "tes2",
+        "environment": {
+            "type": "noflo-browser"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {
+        "test/tes2_zeva3": {
+            "component": "test/tes2",
+            "metadata": {
+                "label": "test/tes2",
+                "x": 334,
+                "y": 100
+            }
+        }
+    },
+    "connections": []
+}
